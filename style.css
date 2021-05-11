@@ -44,7 +44,7 @@ body {
     background-color: #3498db;
     height: 4px;
     position: absolute;
-    width: 23%;
+    width: 0;
     top: 50%;
     left: 0;
     transform: translateY(-50%);
@@ -68,7 +68,7 @@ body {
 
 .circle.active {
     background: #3498db;
-    color: #fff;
+    color: #fff; 
 }
 
 
